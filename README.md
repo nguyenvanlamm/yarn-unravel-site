@@ -15,6 +15,6 @@ Published by GitHub Pages from the root of `main`.
 - Fonts: Mali and Nunito (SIL Open Font License, see `assets/fonts/ofl_*.txt`).
 - Screenshots: WebP copies of the game's art-sheet captures.
 
-Before launch: replace `contact@example.com`, swap the "Coming soon"
+Before launch: swap the "Coming soon"
 button for the official App Store badge + link, and add the
 `apple-itunes-app` meta tag (see the comment in `index.html`).
