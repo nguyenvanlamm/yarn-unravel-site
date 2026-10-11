@@ -1,0 +1,18 @@
+# Yarn Unravel
+
+> Yarn Unravel ("Yarn Unravel: Knit Puzzle") is a relaxing puzzle game for iPhone (iOS 15 or later), coming soon to the App Store. Players tap yarn spools, send them to a wooden tray and watch the thread stitch 120 knitted pictures, from hearts and sailboats to Hội An lanterns. It is free to download, plays fully offline and has no ads and no account.
+
+- Every level can be beaten without paying. Each win earns 40 coins; optional coin packs (500, 1,200, 2,800 and 6,500 coins) are sold as in-app purchases.
+- Special spools: mystery, frozen, roped pairs and dispensers. Boosters: +1 Slot, Hand and Scissors.
+- Colour-blind mode adds a symbol to every yarn colour. The game is in English.
+- Progress is stored only on the device. The game collects no personal data and sends no analytics.
+
+## Pages
+
+- [Home](https://nguyenvanlamm.github.io/yarn-unravel-site/index.html.md): what the game is, how to play, features, coin packs and FAQ
+- [Support](https://nguyenvanlamm.github.io/yarn-unravel-site/support.html.md): contact, missing coins, refunds, moving progress and stuck levels
+- [Privacy Policy](https://nguyenvanlamm.github.io/yarn-unravel-site/privacy.html.md): what the game stores on the device and what it never collects
+
+## Optional
+
+- [Website](https://nguyenvanlamm.github.io/yarn-unravel-site/): the HTML landing page
