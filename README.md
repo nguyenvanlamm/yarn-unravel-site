@@ -22,8 +22,8 @@ pages' text. When a page changes, update its `.html.md`, `llms.txt`, the JSON-LD
 sitemap `lastmod` in the same commit. Crawlers read robots.txt only at the host root
 (`nguyenvanlamm.github.io/robots.txt`), which this repo cannot serve.
 
-Before launch: swap the "Coming soon"
-button for the official App Store badge + link, and add the
+Before launch: swap both "Coming soon" badges (hero and closing section)
+for the official App Store badge + link, and add the
 `apple-itunes-app` meta tag (see the comment in `index.html`). Add the App Store URL to
 the JSON-LD (`installUrl`, `offers.url`) and replace "coming soon" in `llms.txt` and
 `index.html.md`.

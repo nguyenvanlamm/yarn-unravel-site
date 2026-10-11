@@ -1,7 +1,7 @@
-@font-face { font-family: Mali; font-weight: 700; font-display: swap; src: url(fonts/mali_v13_latin_vietnamese_700.ttf) format("truetype"); }
-@font-face { font-family: Nunito; font-weight: 400; font-display: swap; src: url(fonts/nunito_v32_latin_vietnamese_regular.ttf) format("truetype"); }
-@font-face { font-family: Nunito; font-weight: 700; font-display: swap; src: url(fonts/nunito_v32_latin_vietnamese_700.ttf) format("truetype"); }
-@font-face { font-family: Nunito; font-weight: 800; font-display: swap; src: url(fonts/nunito_v32_latin_vietnamese_800.ttf) format("truetype"); }
+@font-face { font-family: Mali; font-weight: 700; font-display: swap; src: url(fonts/mali_v13_latin_vietnamese_700.woff2) format("woff2"), url(fonts/mali_v13_latin_vietnamese_700.ttf) format("truetype"); }
+@font-face { font-family: Nunito; font-weight: 400; font-display: swap; src: url(fonts/nunito_v32_latin_vietnamese_regular.woff2) format("woff2"), url(fonts/nunito_v32_latin_vietnamese_regular.ttf) format("truetype"); }
+@font-face { font-family: Nunito; font-weight: 700; font-display: swap; src: url(fonts/nunito_v32_latin_vietnamese_700.woff2) format("woff2"), url(fonts/nunito_v32_latin_vietnamese_700.ttf) format("truetype"); }
+@font-face { font-family: Nunito; font-weight: 800; font-display: swap; src: url(fonts/nunito_v32_latin_vietnamese_800.woff2) format("woff2"), url(fonts/nunito_v32_latin_vietnamese_800.ttf) format("truetype"); }
 
 /* Palette mirrors lib/ui/theme/tokens.dart ("Xưởng đan ấm"). */
 :root {
@@ -16,12 +16,13 @@
   --primary-edge: #8A3424;
   --primary-text: #9E3F2C;
   --sage: #4F7A4C;
+  --sage-text: #3E6B3B; /* darker than the game token so small text passes WCAG AA */
   --mustard: #E8B04B;
   --walnut: #7A4E32;
   --walnut-dark: #5C3A24;
   --oak: #D9A46A;
   --ink: #3A2A22;
-  --muted: #776554;
+  --muted: #6E5D4D; /* darker than the game token: AA even on the woven linen texture */
   --shadow: rgba(58, 42, 34, .18);
   --radius: 22px;
 }
@@ -63,6 +64,7 @@ p { margin: 0 0 1em; }
 .top nav a { color: #F2E4C6; text-decoration: none; font-weight: 700; padding: 6px 10px; border-radius: 10px; }
 .top nav a:hover { background: rgba(255, 255, 255, .1); }
 @media (max-width: 640px) { .top nav a.opt { display: none; } }
+@media (max-width: 374px) { .top nav a.opt-xs { display: none; } }
 
 /* Buttons */
 .btn {
@@ -81,13 +83,17 @@ p { margin: 0 0 1em; }
 .btn small { display: block; font-weight: 700; font-size: .72rem; opacity: .85; line-height: 1.1; }
 .btn .two { line-height: 1.15; text-align: left; }
 .btn svg { flex: none; }
+.btn[aria-disabled="true"] { cursor: default; color: var(--primary-text); background: var(--cream); box-shadow: inset 0 0 0 1.5px var(--felt-edge); }
+.btn[aria-disabled="true"]::after { border-color: rgba(158, 63, 44, .45); }
+.btn[aria-disabled="true"] small { opacity: 1; }
+.btn[aria-disabled="true"]:hover, .btn[aria-disabled="true"]:active { transform: none; box-shadow: inset 0 0 0 1.5px var(--felt-edge); }
 
 /* Hero */
 .hero { padding: 56px 0 40px; overflow: hidden; }
 .hero .wrap { display: grid; grid-template-columns: 1.1fr .9fr; gap: 40px; align-items: center; }
 .hero .eyebrow {
   display: inline-block; font-weight: 800; font-size: .85rem; letter-spacing: .04em; text-transform: uppercase;
-  color: var(--sage); background: #E3EBDA; border: 1.5px dashed #9DB894; border-radius: 99px; padding: 4px 14px; margin-bottom: 18px;
+  color: var(--sage-text); background: #E3EBDA; border: 1.5px dashed #9DB894; border-radius: 99px; padding: 4px 14px; margin-bottom: 18px;
 }
 .hero h1 span.accent { color: var(--primary); }
 .hero p.lead { font-size: 1.18rem; color: var(--muted); max-width: 34em; }
@@ -164,7 +170,7 @@ section { padding: 56px 0; }
 @media (min-width: 1100px) { .shots { justify-content: center; } }
 
 /* Fair play */
-.fair { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; align-items: stretch; }
+.fair { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; align-items: start; }
 .fair ul { margin: 10px 0 0; padding-left: 1.2em; color: var(--muted); }
 .fair li { margin-bottom: 6px; }
 .packs { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 14px; }
@@ -185,11 +191,13 @@ section { padding: 56px 0; }
 
 /* Final CTA + footer */
 .final { text-align: center; }
+.final .cta { justify-content: center; }
 .final img { width: 112px; height: 112px; border-radius: 26px; margin: 0 auto 18px; box-shadow: 0 12px 26px var(--shadow); }
 footer { background: var(--walnut-dark); color: #E3CFA8; padding: 30px 0; font-size: .95rem; }
 footer .wrap { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; justify-content: space-between; }
 footer a { color: var(--cream); font-weight: 700; text-decoration: none; }
 footer nav { display: flex; flex-wrap: wrap; gap: 18px; }
+footer nav a { display: inline-block; padding: 10px 2px; }
 
 /* Text pages (privacy, support) */
 .doc { padding: 44px 0 64px; }

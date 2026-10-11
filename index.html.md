@@ -1,6 +1,6 @@
 # Yarn Unravel: Unravel the yarn, stitch the picture
 
-A puzzle game for iPhone. A calm few-minute break for any time of day. Tap a spool and watch the thread stitch itself into cosy knitted pictures: conical hats, lotus flowers, Hội An lanterns and 117 more.
+A puzzle game for iPhone. A calm few-minute break with no ads to sit through. Tap a spool and watch the thread stitch itself into cosy knitted pictures with a Vietnamese touch: conical hats, lotus flowers, Hội An lanterns and 117 more.
 
 Coming soon on the App Store.
 
@@ -47,7 +47,7 @@ A gently rising challenge, with relaxing breather levels along the way.
 
 ## Optional coin packs
 
-Each win earns 40 coins. If you'd like a head start, coin packs are there: 500, 1,200 (+20%), 2,800 (+40%) and 6,500 (+60%) coins.
+Each win earns 40 coins. If you'd like a head start, the game sells optional coin packs as in-app purchases: 500, 1,200 (+20%), 2,800 (+40%) and 6,500 (+60%) coins.
 
 ## Frequently asked questions
 
@@ -73,6 +73,6 @@ iPhone with iOS 15 or later.
 
 ## Ready to unravel your first spool?
 
-Yarn Unravel is coming soon to the App Store.
+Coming soon on the App Store.
 
 [Support](support.html.md) · [Privacy Policy](privacy.html.md)
