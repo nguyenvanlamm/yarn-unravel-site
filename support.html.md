@@ -1,6 +1,6 @@
-# Support — Yarn Unravel
+# Support — Spoolway
 
-Found a bug, have feedback or need a hand? Email [lamnv260398@gmail.com](mailto:lamnv260398@gmail.com?subject=Yarn%20Unravel). Please include your iPhone model, iOS version and the level you're on. We usually reply within a few days.
+Found a bug, have feedback or need a hand? Email [lamnv260398@gmail.com](mailto:lamnv260398@gmail.com?subject=Spoolway). Please include your iPhone model, iOS version and the level you're on. We usually reply within a few days.
 
 ## I bought coins but didn't receive them
 
@@ -23,3 +23,5 @@ Every level has been checked to be solvable. Try freeing spools of the colours t
 Tap the gear button at the top of the home screen.
 
 [Privacy Policy](privacy.html.md)
+
+© 2026 Luong Nguyen

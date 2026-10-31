@@ -1,8 +1,10 @@
-# Yarn Unravel — landing page
+# Spoolway — landing page
 
-Static site for the Yarn Unravel iOS app: `index.html` (landing),
-`privacy.html` (Privacy Policy URL) and `support.html` (Support URL).
-No build step and no external requests.
+Static site for the Spoolway iOS app (store name "Spoolway: Clear the Path"):
+`index.html` (landing), `privacy.html` (Privacy Policy URL) and `support.html`
+(Support URL). No build step and no external requests. The repo name, the URL path
+`yarn-unravel-site` and the file names stay as they are: App Store Connect links to them.
+Copyright: © 2026 Luong Nguyen (page footers and the Markdown copies).
 
 Live: https://nguyenvanlamm.github.io/yarn-unravel-site/
 
@@ -14,7 +16,11 @@ Published by GitHub Pages from the root of `main`.
 
 - Fonts: Mali and Nunito (SIL Open Font License, see `assets/fonts/ofl_*.txt`).
 - Screenshots: WebP copies of the game's art-sheet captures.
-- Share card: `assets/img/share-card.jpg` (1200×630), the `og:image` of every page.
+- Share card: `assets/img/share-card.jpg` (1200×630), the `og:image` of every page: the
+  site's linen background, Mali/Nunito text and the album and level 13 shots on two phones,
+  rendered at 1200×630 with headless Chromium. Keep its `og:image:alt` in step with its text.
+- Icons: `icon.png` (512), `apple-touch-icon.png` (180) and `favicon.png` (48) are resized
+  from the game's `art/brand/icon.png`; `favicon.png` is the game's `web/favicon.png`.
 
 Search and AI files: `sitemap.xml`, `llms.txt`, the JSON-LD in each page and the
 Markdown copies `index.html.md`, `privacy.html.md` and `support.html.md` repeat the

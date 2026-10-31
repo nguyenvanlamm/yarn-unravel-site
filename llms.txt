@@ -1,11 +1,12 @@
-# Yarn Unravel
+# Spoolway
 
-> Yarn Unravel ("Yarn Unravel: Knit Puzzle") is a relaxing puzzle game for iPhone (iOS 15 or later), coming soon to the App Store. Players tap yarn spools, send them to a wooden tray and watch the thread stitch 120 knitted pictures, from hearts and sailboats to Hội An lanterns. It is free to download, plays fully offline and has no ads and no account.
+> Spoolway ("Spoolway: Clear the Path") is a calm puzzle game for iPhone (iOS 15 or later), coming soon to the App Store. Spools stand on a wooden board, and a spool can leave only when a clear path leads up to the top row; every spool taken opens the way for the ones behind it. Each spool then knits its colour into one of 120 pictures of Vietnam, from Hội An lanterns and a bowl of phở to lotus flowers, Hạ Long Bay and bánh mì. It is free to download, plays fully offline and has no ads and no account.
 
 - Every level can be beaten without paying. Each win earns 40 coins; optional coin packs (500, 1,200, 2,800 and 6,500 coins) are sold as in-app purchases.
-- Special spools: mystery, frozen, roped pairs and dispensers. Boosters: +1 Slot, Hand and Scissors.
+- Special spools: ice, roped pairs, mystery spools and dispensers. Boosters: +1 Slot, Hand and Scissors.
 - Colour-blind mode adds a symbol to every yarn colour. The game is in English.
 - Progress is stored only on the device. The game collects no personal data and sends no analytics.
+- © 2026 Luong Nguyen.
 
 ## Pages
 

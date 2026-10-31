@@ -1,8 +1,8 @@
-# Privacy Policy — Yarn Unravel
+# Privacy Policy — Spoolway
 
-Updated: October 10, 2026
+Updated: October 31, 2026
 
-Yarn Unravel is a fully offline puzzle game.
+Spoolway is a fully offline puzzle game.
 
 - **No personal data collected.** The game asks for no account, name, email, location or any identifying information.
 - **No ads** and no tracking across other apps or websites.
@@ -19,3 +19,5 @@ If this policy changes, this page will be updated with a new date.
 ## Contact
 
 Questions? Write to [lamnv260398@gmail.com](mailto:lamnv260398@gmail.com).
+
+© 2026 Luong Nguyen

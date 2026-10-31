@@ -1,6 +1,6 @@
-# Yarn Unravel: Unravel the yarn, stitch the picture
+# Spoolway: Clear a path, knit the picture
 
-A puzzle game for iPhone. A calm few-minute break with no ads to sit through. Tap a spool and watch the thread stitch itself into cosy knitted pictures with a Vietnamese touch: conical hats, lotus flowers, Hội An lanterns and 117 more.
+A puzzle game for iPhone. A spool can leave the wooden board only when a clear path leads up to the top row, and each one you take opens the way for the next. Then it knits its colour into a picture of Vietnam: Hội An lanterns, a bowl of phở, Hạ Long Bay and many more. A calm break with no ads to sit through.
 
 Coming soon on the App Store.
 
@@ -14,15 +14,15 @@ Coming soon on the App Store.
 
 Each level takes a few minutes, and no tap is ever wasted.
 
-1. **Tap a spool.** Pick any standing spool on the board to send it up to the wooden tray.
-2. **Watch it stitch.** Spools of the right colour pull their thread into the picture. Chain stitches for combos and stars.
-3. **Keep the tray free.** The tray has only a few slots. Think one step ahead and finish the picture.
+1. **Clear a path.** Tap a spool with a clear path to the top row to send it to the wooden tray.
+2. **Plan the order.** Every spool you take opens the way for the ones behind it, so free the colours the picture needs next. Chain stitches for combos and stars.
+3. **Knit the picture.** Each spool knits its colour into the picture's bottom row. The tray has only a few slots, so think one step ahead.
 
 ## A cosy knitting workshop in your pocket
 
 Linen, oak and soft wool, all drawn by hand.
 
-- **Stitch by stitch:** on level 13, spools on the wooden tray stitch a knitted sailboat.
+- **Clear a path:** on level 13, spools on the wooden tray stitch a knitted sailboat while the spools below wait for a clear path to the top row.
 - **A 120-level journey:** the home screen is a winding path of levels.
 - **Finish the picture:** every finished picture earns 40 coins and joins your collection.
 - **Collect every picture:** the album fills with hearts, oranges, goldfish, lotus flowers, lanterns, cats and more.
@@ -32,10 +32,10 @@ Linen, oak and soft wool, all drawn by hand.
 
 A gently rising challenge, with relaxing breather levels along the way.
 
-- **120 knitted pictures.** From hearts and oranges to sailboats and Hội An lanterns, every level adds a picture to your collection.
-- **Special spools.** Mystery spools, frozen spools, roped pairs and dispensers keep every level fresh.
-- **Handy boosters.** +1 Slot adds a tray slot, Hand grabs any spool, Scissors send a spool back to the board.
-- **The yarn shop.** Spend the coins you earn on boosters, a daily deal, walnut and cherry wood sets and new backdrops.
+- **120 knitted pictures.** From hearts and sailboats to Hội An lanterns, a bowl of phở and Hạ Long Bay, every level adds a picture to your collection.
+- **Special spools.** Ice locks a spool until you take its neighbours, roped pairs leave together, mystery spools hide their colour and dispensers keep adding new spools.
+- **Handy boosters.** +1 Slot adds a tray slot, Hand grabs any spool, even a blocked one, and Scissors send a spool back to the board.
+- **The yarn shop.** Spend the coins you earn on boosters, a daily deal, walnut, cherry and ash wood sets and new backdrops.
 - **Play anywhere.** Fully offline. Play on a plane, on the train or before bed.
 - **Colour-blind mode.** Switch it on in settings and every yarn colour carries its own symbol.
 
@@ -71,8 +71,10 @@ Reopen the game while online; the purchase is credited automatically and never t
 
 iPhone with iOS 15 or later.
 
-## Ready to unravel your first spool?
+## Ready to clear your first path?
 
 Coming soon on the App Store.
 
 [Support](support.html.md) · [Privacy Policy](privacy.html.md)
+
+© 2026 Luong Nguyen
